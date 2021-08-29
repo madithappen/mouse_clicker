@@ -1,2 +1,2 @@
 # mouse_clicker
-Click the mouse at an alarming rate!
+Click your mouse at an alarming rate!
