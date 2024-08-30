@@ -3,3 +3,4 @@ Click your mouse at an alarming rate!
 
 # Requirements
 - Windows
+- PowerShell
